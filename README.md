@@ -1,2 +1,2 @@
 # craigslist_scrapy
-Crawling used used car data from caraglist to prepare for further data analysis
+Crawling craigslist web site for used car data from caraglist to prepare for further data analysis
